@@ -5,6 +5,6 @@ Además, encontrará los códigos de Latex usados para la creación de las ecuac
 
 La entrega final también se encuentra disponible como archivo .pdf
 
-Gracias, espero que sea de su agrado.
+Gracias, esperamos que sea de su agrado.
 
 Javier Vivas, José María Rodríguez

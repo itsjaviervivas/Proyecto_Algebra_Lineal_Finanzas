@@ -7,4 +7,7 @@ La entrega final también se encuentra disponible como archivo .pdf
 
 Gracias, esperamos que sea de su agrado.
 
+Nota: Este proyecto está inspirado en el proyecto realizado para el curso de Álgebra Lineal para
+MACC en el semestre 2018-2. Sin embargo, el enfoque y los elementos a utilizar son distintos.
+
 Javier Vivas, José María Rodríguez
